@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/Documents/Programming Assets/Python/Coursera-datastructure" vcs="Git" />
     <mapping directory="$USER_HOME$/Documents/Programming Assets/Python/Coursera-graph" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../DSA_450" vcs="Git" />
