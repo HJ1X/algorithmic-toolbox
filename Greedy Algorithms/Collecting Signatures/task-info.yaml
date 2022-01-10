@@ -1,0 +1,19 @@
+type: edu
+files:
+- name: logo.png
+  visible: false
+- name: tests.py
+  visible: false
+- name: collecting_signatures.py
+  visible: true
+  placeholders:
+  - offset: 158
+    length: 805
+    placeholder_text: type here
+- name: collecting_signatures_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 342
+    length: 0
+    placeholder_text: type here
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/kAiGl/programming-assignment-2-greedy-algorithms/discussions

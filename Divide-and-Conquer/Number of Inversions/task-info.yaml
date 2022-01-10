@@ -1,0 +1,24 @@
+type: edu
+files:
+- name: logo.png
+  visible: false
+- name: number_of_inversions_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 283
+    length: 0
+    placeholder_text: type here
+  - offset: 805
+    length: 0
+    placeholder_text: type here
+- name: tests.py
+  visible: false
+- name: number_of_inversions.py
+  visible: true
+  placeholders:
+  - offset: 281
+    length: 69
+    placeholder_text: type here
+- name: merge_sort.py
+  visible: true
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/w9YDz/programming-assignment-3-divide-and-conquer/discussions

@@ -1,0 +1,19 @@
+type: edu
+files:
+- name: logo.png
+  visible: false
+- name: money_change.py
+  visible: true
+  placeholders:
+  - offset: 68
+    length: 151
+    placeholder_text: type here
+- name: money_change_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 187
+    length: 0
+    placeholder_text: type here
+- name: tests.py
+  visible: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/kAiGl/programming-assignment-2-greedy-algorithms/discussions

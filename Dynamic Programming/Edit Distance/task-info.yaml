@@ -1,0 +1,19 @@
+type: edu
+files:
+- name: edit_distance.py
+  visible: true
+  placeholders:
+  - offset: 64
+    length: 564
+    placeholder_text: type here
+- name: edit_distance_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 364
+    length: 0
+    placeholder_text: type here
+- name: logo.png
+  visible: false
+- name: tests.py
+  visible: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/ekN4T/programming-assignment-4-dynamic-programming/discussions

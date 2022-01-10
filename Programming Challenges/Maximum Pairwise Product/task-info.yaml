@@ -1,0 +1,29 @@
+type: edu
+files:
+- name: logo.png
+  visible: false
+- name: tests.py
+  visible: false
+- name: maximum_pairwise_product_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 401
+    length: 0
+    placeholder_text: type here
+- name: maximum_pairwise_product.py
+  visible: true
+  placeholders:
+  - offset: 435
+    length: 305
+    placeholder_text: type here
+- name: gen.py
+  visible: true
+- name: main.py
+  visible: true
+- name: mpp_model.py
+  visible: true
+- name: main.txt
+  visible: true
+- name: input.txt
+  visible: true
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/d5xfz/maximum-pairwise-product/discussions

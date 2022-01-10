@@ -1,0 +1,15 @@
+type: edu
+files:
+- name: logo.png
+  visible: false
+- name: sum_of_two_digits_unit_tests.py
+  visible: true
+- name: tests.py
+  visible: false
+- name: sum_of_two_digits.py
+  visible: true
+  placeholders:
+  - offset: 220
+    length: 26
+    placeholder_text: write your code here
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/ZtG0y/a-plus-b/discussions

@@ -1,0 +1,22 @@
+type: edu
+files:
+- name: logo.png
+  visible: false
+- name: maximum_ad_revenue.py
+  visible: true
+  placeholders:
+  - offset: 846
+    length: 194
+    placeholder_text: type here
+- name: maximum_ad_revenue_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 443
+    length: 0
+    placeholder_text: type here
+  - offset: 829
+    length: 0
+    placeholder_text: type here
+- name: tests.py
+  visible: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/kAiGl/programming-assignment-2-greedy-algorithms/discussions

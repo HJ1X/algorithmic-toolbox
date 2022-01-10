@@ -1,0 +1,19 @@
+type: edu
+files:
+- name: logo.png
+  visible: false
+- name: tests.py
+  visible: false
+- name: maximum_gold.py
+  visible: true
+  placeholders:
+  - offset: 194
+    length: 474
+    placeholder_text: type here
+- name: maximum_gold_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 278
+    length: 0
+    placeholder_text: type here
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/ekN4T/programming-assignment-4-dynamic-programming/discussions

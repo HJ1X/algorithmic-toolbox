@@ -1,0 +1,23 @@
+type: edu
+files:
+- name: fibonacci_number_again.py
+  visible: true
+  placeholders:
+  - offset: 369
+    length: 339
+    placeholder_text: type here
+- name: fibonacci_number_again_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 456
+    length: 0
+    placeholder_text: type here
+- name: logo.png
+  visible: false
+- name: table1.png
+  visible: false
+- name: table2.png
+  visible: false
+- name: tests.py
+  visible: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-1-introduction/discussions

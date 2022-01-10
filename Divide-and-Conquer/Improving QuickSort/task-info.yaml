@@ -1,0 +1,21 @@
+type: edu
+files:
+- name: quicksort_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 240
+    length: 0
+    placeholder_text: type here
+- name: tests.py
+  visible: false
+- name: quicksort.py
+  visible: true
+  placeholders:
+  - offset: 80
+    length: 381
+    placeholder_text: type here
+  - offset: 631
+    length: 134
+    placeholder_text: "make a call to partition3 and then two recursive calls \nto\
+      \ randomized_quick_sort"
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/w9YDz/programming-assignment-3-divide-and-conquer/discussions

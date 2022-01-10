@@ -1,0 +1,19 @@
+type: edu
+files:
+- name: logo.png
+  visible: false
+- name: tests.py
+  visible: false
+- name: lcs2_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 426
+    length: 0
+    placeholder_text: type here
+- name: lcs2.py
+  visible: true
+  placeholders:
+  - offset: 133
+    length: 482
+    placeholder_text: type here
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/ekN4T/programming-assignment-4-dynamic-programming/discussions

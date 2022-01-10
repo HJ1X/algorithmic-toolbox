@@ -1,0 +1,19 @@
+type: edu
+files:
+- name: last_digit_of_the_sum_of_fibonacci_numbers_again.py
+  visible: true
+  placeholders:
+  - offset: 604
+    length: 427
+    placeholder_text: type here
+- name: last_digit_of_the_sum_of_fibonacci_numbers_again_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 904
+    length: 0
+    placeholder_text: type here
+- name: logo.png
+  visible: false
+- name: tests.py
+  visible: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-1-introduction/discussions

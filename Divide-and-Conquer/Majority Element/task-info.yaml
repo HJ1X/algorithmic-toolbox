@@ -1,0 +1,19 @@
+type: edu
+files:
+- name: logo.png
+  visible: false
+- name: majority_element.py
+  visible: true
+  placeholders:
+  - offset: 276
+    length: 1462
+    placeholder_text: type here
+- name: majority_element_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 296
+    length: 0
+    placeholder_text: type here
+- name: tests.py
+  visible: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/w9YDz/programming-assignment-3-divide-and-conquer/discussions

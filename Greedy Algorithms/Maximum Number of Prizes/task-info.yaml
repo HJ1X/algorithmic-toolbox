@@ -1,0 +1,19 @@
+type: edu
+files:
+- name: logo.png
+  visible: false
+- name: maximum_number_of_prizes.py
+  visible: true
+  placeholders:
+  - offset: 95
+    length: 538
+    placeholder_text: type here
+- name: maximum_number_of_prizes_unit_tests.py
+  visible: true
+  placeholders:
+  - offset: 203
+    length: 0
+    placeholder_text: type here
+- name: tests.py
+  visible: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/kAiGl/programming-assignment-2-greedy-algorithms/discussions
