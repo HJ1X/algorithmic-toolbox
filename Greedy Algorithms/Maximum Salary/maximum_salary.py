@@ -5,9 +5,7 @@ from itertools import permutations
 
 def largest_number_naive(numbers):
     numbers = list(map(str, numbers))
-
     largest = 0
-
     for permutation in permutations(numbers):
         largest = max(largest, int("".join(permutation)))
 

@@ -13,7 +13,7 @@ files:
 - name: maximum_salary.py
   visible: true
   placeholders:
-  - offset: 298
+  - offset: 296
     length: 309
     placeholder_text: type here
 feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/kAiGl/programming-assignment-2-greedy-algorithms/discussions
